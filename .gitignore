@@ -1,0 +1,10 @@
+venv/
+uploads/
+images/
+images.zip
+embeddings.pkl
+filenames.pkl
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
