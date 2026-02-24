@@ -4,6 +4,7 @@ images/
 images.zip
 embeddings.pkl
 filenames.pkl
+data/
 __pycache__/
 *.pyc
 .DS_Store
